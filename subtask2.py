@@ -23,3 +23,5 @@ print(f"Count(n): {n}")
 print(f"Sum(s): {s}") 
 print(f"Minimum(m): {m}") 
 print(f"Mean(a): {a}")
+# it looks like I learned how to use
+git today
