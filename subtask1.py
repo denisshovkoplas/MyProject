@@ -7,6 +7,5 @@ def largest_square (n):
     a = a-1
     q = a*a
     print(q)
-# it looks like I learned how to use
-git today
+# it looks like I learned how to use git today
 
